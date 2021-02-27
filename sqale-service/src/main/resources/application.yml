@@ -1,0 +1,8 @@
+server:
+  port: 9002
+
+spring:
+  application:
+    name: SQALE-SERVICE
+  zipkin:
+    base-url: http://127.0.0.1:9411/
