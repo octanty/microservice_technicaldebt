@@ -1,0 +1,12 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ž½Ž¦ÿÿÿÿÿ
+^
+java:S1226"CIntroduce a new variable instead of reusing the parameter "number".(‡šº“ÿÿÿÿÿ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(ÁŸ.
+Z
+java:S2583"DChange this condition so that it does not always evaluate to "false"(‘Ò­™
+>
+java:S1068
+"(Remove this unused "TEST" private field.(áÙ«ð
+d	java:S116
+"ORename this field "TEST" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áÙ«ð
