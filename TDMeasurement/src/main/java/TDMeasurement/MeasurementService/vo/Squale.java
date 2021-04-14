@@ -1,4 +1,4 @@
 package TDMeasurement.MeasurementService.vo;
 
-public class DirResult {
+public class Squale {
 }
