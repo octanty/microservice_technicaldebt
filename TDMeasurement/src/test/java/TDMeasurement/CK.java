@@ -1,4 +1,4 @@
 package TDMeasurement;
 
-public class CKTest {
+public class CK {
 }

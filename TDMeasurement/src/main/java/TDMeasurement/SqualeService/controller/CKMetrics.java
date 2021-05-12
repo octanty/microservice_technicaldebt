@@ -1,4 +1,4 @@
 package TDMeasurement.SqualeService.controller;
 
-public class MetricsCSVWriter {
+public class CKMetrics {
 }

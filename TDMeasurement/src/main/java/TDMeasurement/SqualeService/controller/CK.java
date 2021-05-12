@@ -1,4 +1,4 @@
 package TDMeasurement.SqualeService.controller;
 
-public class ASTVisitorCheck {
+public class CK {
 }
