@@ -1,4 +1,4 @@
 package TDMeasurement.SIGService.controller;
 
-public class tryDuplicates {
+public class CKMetric {
 }
