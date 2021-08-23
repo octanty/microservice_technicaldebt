@@ -1,3 +1,6 @@
+This is Microservice Based Platform for Software Technical Debt Analysis, we implemented three Technical Debt Identification Method, consisted of Maintainability Index,
+SIG Maintainability, and Sqale. To run the calculation we can call function calculate in Measurement Service
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
